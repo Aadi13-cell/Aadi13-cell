@@ -1,7 +1,7 @@
-### Hi ther<h1 align="center">Hi 👋, I'm Aadi</h1>
+### Hi there<h1 align="center">Hii 👀, I'm Aadi😎</h1>
 <h3 align="center">I'm a developer as well as Student.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadi13-cell&label=Profile%20views&color=0e75b6&style=flat" alt="aadi13-cell" /> </p>
+<p align="left"> <img src="https://images.pexels.com/photos/2255441/pexels-photo-2255441.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width="100%" height="300px" /> </p>
 
 - 🌱 I’m currently learning **ADIT | IBM**
 
