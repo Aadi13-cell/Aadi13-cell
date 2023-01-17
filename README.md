@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47ujdhvhizb1l6820sntgojcq8cfflzo5mdf8d452u&rid=giphy.gif&ct=g" width="100%" height="250px">
+<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47ujdhvhizb1l6820sntgojcq8cfflzo5mdf8d452u&rid=giphy.gif&ct=g" width="100%" height="250px" border="4px solid black">
 Hi there<h1 align="center">Hii 👀, I'm Aadi😎</h1>
 <h3 align="center">I'm a developer as well as Student.</h3>
 
