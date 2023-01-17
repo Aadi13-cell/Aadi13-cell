@@ -2,7 +2,7 @@
 Hi there<h1 align="center">Hii 👀, I'm Aadi😎</h1>
 <h3 align="center">I'm a developer as well as Student.</h3>
 
-<img align="right" alt="coding" width="400" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
+<img align="right" alt="coding" width="250" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
 
 - 🌱 I’m currently learning **ADIT | IBM**
 
