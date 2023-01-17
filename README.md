@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" width="100%" height="350px">
+<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47ujdhvhizb1l6820sntgojcq8cfflzo5mdf8d452u&rid=giphy.gif&ct=g" width="100%" height="300px">
 Hi there<h1 align="center">Hii 👀, I'm Aadi😎</h1>
 <h3 align="center">I'm a developer as well as Student.</h3>
 
