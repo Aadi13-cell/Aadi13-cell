@@ -1,9 +1,8 @@
 ###
-![Master] Head(img src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" widht="100%" height="300px")]
 Hi there<h1 align="center">Hii 👀, I'm Aadi😎</h1>
 <h3 align="center">I'm a developer as well as Student.</h3>
 
-<img align="right" alt="coding" width="400" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216" width="180px" height="300px"/>
+<img align="right" alt="coding" width="400" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
 
 - 🌱 I’m currently learning **ADIT | IBM**
 
